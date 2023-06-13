@@ -4,3 +4,4 @@ pinecone-client
 session_info
 tiktoken
 tqdm
+python-dotenv
